@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653920821003",
+    "project_id": "gettogether-beed5",
+    "storage_bucket": "gettogether-beed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653920821003:android:d4e6a833cff101c3fc0c0e",
+        "android_client_info": {
+          "package_name": "com.GetTogether.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrG76ujHmiZol9bMio_sTaTiEmFvB_9Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
